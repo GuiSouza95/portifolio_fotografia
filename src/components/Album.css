@@ -1,0 +1,38 @@
+.d-grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    width: 1000px;
+}
+
+.card {
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.aside {
+    position: sticky;
+    right: 0;
+    top: 54px;
+    bottom: 0px;
+    background: lightgray;
+    padding: 20px;
+    overflow: auto;
+    transition: transform 0.2s;
+    max-height: 80vh;
+}
+
+.close-btn{
+    background: none;
+    border: none;
+    position: relative;
+    left: 45%;
+    transition: color 0.3s;
+}
+
+.close-btn:hover{
+    background-color: red;
+}
