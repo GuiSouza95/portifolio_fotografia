@@ -1,8 +1,11 @@
 import fs from "node:fs/promises";
 import express from "express";
 import jwt from "jsonwebtoken";
+import cors from "cors";
 
 const app = express();
+
+app.use(cors());
 
 app.use(express.static("./images"));
 app.use(express.json());
@@ -33,7 +36,7 @@ app.get("/photos", async (req, res) => {
   }
 });
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8080;
 app.listen(port, () => {
   console.log(`Servidor rodando na porta ${port}`);
 });
