@@ -8,7 +8,7 @@ export default function Activies(){
 
     return(
         <div className="album text-center mt-5">
-            <Link to='/' className="position-end position-absolute top-0 end-0 me-5">
+            <Link to='/portifolio_fotografia' className="position-end position-absolute top-0 end-0 me-5">
                 <button className="btn btn-outline-light mt-5 mb-2">Voltar</button>
             </Link>
 
