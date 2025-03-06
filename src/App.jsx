@@ -1,7 +1,7 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
 import RootLayout from "./components/RootLayout"
 import HomePage from "./components/HomePage"
-import Activies from "./components/activities"
+import Activies from "./components/Activities"
 
 const router= createBrowserRouter([
   {path:'/',
