@@ -17,8 +17,7 @@ export default function Album({photos}){
     const backendUrl = import.meta.env.MODE === 'production'
     ? import.meta.env.VITE_PROD_BACKEND_URL : import.meta.env.VITE_BACKEND_URL;
 
-    const imagePath = import.meta.env.MODE === 'production'
-    ? `${backendUrl.replace('/photos', '')}/images` : `${backendUrl}/images`;
+    const imagePath = `${backendUrl}/images`;
 
     if (!photos || photos.length === 0) {
         return <div>
