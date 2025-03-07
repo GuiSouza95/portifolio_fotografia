@@ -31,7 +31,7 @@ export default function Album({photos}){
                         {photos.map((photo) => (
                             <li key={photo.name} className='card p-3' onClick={()=> handleCardClick(photo)}>
                                 <div className='image'>
-                                    <img src={`${backendUrl}/${photo.image.src}`} alt={photo.image.alt} className='img-fluid rounded'/>
+                                    <img src={`${photo.image.src}`} alt={photo.image.alt} className='img-fluid rounded'/>
                                 </div>
 
                                 <div className='text-end my-3 me-3'>
@@ -48,7 +48,7 @@ export default function Album({photos}){
 
                         <h4>{selectedCard.name}</h4>
 
-                        <img src={`${backendUrl}/${selectedCard.image.src}`} alt={selectedCard.image.alt} className='img-fluid my-2 rounded'/>
+                        <img src={`${selectedCard.image.src}`} alt={selectedCard.image.alt} className='img-fluid my-2 rounded'/>
 
                         <p>{selectedCard.description}</p>
                     </div>
