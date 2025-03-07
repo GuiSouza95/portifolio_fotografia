@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 export default function getPhotosData(){
     const [availablePhotos, setAvailablePhotos] = useState([])
     useEffect(() =>{
-        fetch('http://portifoliofotografia-production.up.railway.app/photos')
+        fetch('https://portifoliofotografia-production.up.railway.app/photos')
         .then((response) => {return response.json()})
         .then((resData) => {
             setAvailablePhotos(resData.photos)});
