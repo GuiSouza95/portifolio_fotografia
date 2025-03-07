@@ -18,7 +18,9 @@ export default function Album({photos}){
     ? import.meta.env.VITE_PROD_BACKEND_URL : import.meta.env.VITE_BACKEND_URL;
 
     if (!photos || photos.length === 0) {
-        return <div className='text-white'>Loading...</div>;
+        return <div>
+            <p className='text-white'>Loading...</p>
+            </div>;
     }
 
     return(
