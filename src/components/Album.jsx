@@ -17,9 +17,6 @@ export default function Album({photos}){
     const backendUrl = import.meta.env.MODE === 'production'
     ? import.meta.env.VITE_PROD_BACKEND_URL : import.meta.env.VITE_BACKEND_URL;
 
-    const imagePath = import.meta.env.MODE === 'production'
-    ? `${backendUrl.replace('/photos', '')}/images` : `${backendUrl}/images`;
-
     if (!photos || photos.length === 0) {
         return <div>
             <p className='text-white'>Loading...</p>
@@ -34,7 +31,7 @@ export default function Album({photos}){
                         {photos.map((photo) => (
                             <li key={photo.name} className='card p-3' onClick={()=> handleCardClick(photo)}>
                                 <div className='image'>
-                                    <img src={`${imagePath}/${photo.image.src}`} alt={photo.image.alt} className='img-fluid rounded'/>
+                                    <img src={`${backendUrl}/${photo.image.src}`} alt={photo.image.alt} className='img-fluid rounded'/>
                                 </div>
 
                                 <div className='text-end my-3 me-3'>
@@ -51,7 +48,7 @@ export default function Album({photos}){
 
                         <h4>{selectedCard.name}</h4>
 
-                        <img src={`${imagePath}/${selectedCard.image.src}`} alt={selectedCard.image.alt} className='img-fluid my-2 rounded'/>
+                        <img src={`${backendUrl}/${selectedCard.image.src}`} alt={selectedCard.image.alt} className='img-fluid my-2 rounded'/>
 
                         <p>{selectedCard.description}</p>
                     </div>
