@@ -25,7 +25,7 @@ export default function Album({photos}){
 
     if (!photos || photos.length === 0) {
         return <div>
-            <h3 className='text-white'>Loading...</h3>
+            <h2 className='text-white'>Loading...</h2>
             </div>;
     }
 
