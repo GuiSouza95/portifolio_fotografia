@@ -19,7 +19,7 @@ export default function Album({photos}){
 
     if (!photos || photos.length === 0) {
         return <div>
-            <p className='text-white'>Loading...</p>
+            <h3 className='text-white'>Loading...</h3>
             </div>;
     }
 

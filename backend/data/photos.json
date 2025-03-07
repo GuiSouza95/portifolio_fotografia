@@ -1,7 +1,7 @@
 [
     {
         "image":{
-            "src": "../../backend/images/beautiful-baby-red-iguana-closeup-head-wood-animal-closeup.jpg",
+            "src": "beautiful-baby-red-iguana-closeup-head-wood-animal-closeup.jpg",
             "alt":"iguana verde na folha"
         },
         "name":"Iguana de peito vermelho",
@@ -9,14 +9,14 @@
     },
     {        
         "image":{
-        "src": "../../backend/images/beautiful-green-iguana-closeup-head-wood-animal-closeup.jpg",
+        "src": "beautiful-green-iguana-closeup-head-wood-animal-closeup.jpg",
         "alt":"iguana verde"
     },
     "name":"Iguana verde",
     "description":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
 },    {
     "image":{
-        "src": "../../backend/images/beautiful-baby-red-iguana-closeup-head-wood-animal-closeup.jpg",
+        "src": "beautiful-baby-red-iguana-closeup-head-wood-animal-closeup.jpg",
         "alt":"iguana verde na folha"
     },
     "name":"Iguana de peito vermelho",
@@ -24,14 +24,14 @@
 },
 {        
     "image":{
-    "src": "../../backend/images/beautiful-green-iguana-closeup-head-wood-animal-closeup.jpg",
+    "src": "beautiful-green-iguana-closeup-head-wood-animal-closeup.jpg",
     "alt":"iguana verde"
 },
 "name":"Iguana verde",
 "description":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
 },    {
     "image":{
-        "src": "../../backend/images/beautiful-baby-red-iguana-closeup-head-wood-animal-closeup.jpg",
+        "src": "beautiful-baby-red-iguana-closeup-head-wood-animal-closeup.jpg",
         "alt":"iguana verde na folha"
     },
     "name":"Iguana de peito vermelho",
@@ -39,14 +39,14 @@
 },
 {        
     "image":{
-    "src": "../../backend/images/beautiful-green-iguana-closeup-head-wood-animal-closeup.jpg",
+    "src": "beautiful-green-iguana-closeup-head-wood-animal-closeup.jpg",
     "alt":"iguana verde"
 },
 "name":"Iguana verde",
 "description":"It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
 },    {
     "image":{
-        "src": "../../backend/images/beautiful-baby-red-iguana-closeup-head-wood-animal-closeup.jpg",
+        "src": "beautiful-baby-red-iguana-closeup-head-wood-animal-closeup.jpg",
         "alt":"iguana verde na folha"
     },
     "name":"Iguana de peito vermelho",
@@ -54,7 +54,7 @@
 },
 {        
     "image":{
-    "src": "../../backend/images/beautiful-green-iguana-closeup-head-wood-animal-closeup.jpg",
+    "src": "beautiful-green-iguana-closeup-head-wood-animal-closeup.jpg",
     "alt":"iguana verde"
 },
 "name":"Iguana verde",
