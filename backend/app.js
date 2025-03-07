@@ -5,7 +5,13 @@ import cors from "cors";
 
 const app = express();
 
-app.use(cors());
+const corsOptions = {
+  origin: "https://guisouza95.github.io/activities", // URL do seu frontend no Railway
+  methods: "GET, POST, PUT", // Métodos permitidos
+  allowedHeaders: "Content-Type", // Cabeçalhos permitidos
+};
+
+app.use(cors(corsOptions));
 
 app.use(express.static("./images"));
 app.use(express.json());
