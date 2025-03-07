@@ -14,8 +14,12 @@ export default function Album({photos}){
         setSelectedCard(null);
     };
 
-    const backendUrl = import.meta.env.MODE === 'production'
-    ? import.meta.env.VITE_PROD_BACKEND_URL.replace('/photos', '') : import.meta.env.VITE_BACKEND_URL;
+    let backendUrl = import.meta.env.MODE === 'production'
+    ? import.meta.env.VITE_PROD_BACKEND_URL : import.meta.env.VITE_BACKEND_URL;
+
+    if (backendUrl && backendUrl.includes('/photos')) {
+        backendUrl = backendUrl.replace('/photos', '');
+    }
 
     const imagePath = `${backendUrl}/images`;
 
