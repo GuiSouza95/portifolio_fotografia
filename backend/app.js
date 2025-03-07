@@ -2,14 +2,12 @@ import fs from "node:fs/promises";
 import express from "express";
 import jwt from "jsonwebtoken";
 import cors from "cors";
-import path from "node:path";
 
 const app = express();
 
 app.use(cors());
-app.use(express.json());
 
-app.use("/images",express.static(path.join(process.cwd(), "backend/images")));
+app.use(express.static("./images"));
 app.use(express.json());
 
 const SECRET_KEY = "your_secret_key";
