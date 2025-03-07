@@ -14,8 +14,7 @@ export default function Album({photos}){
         setSelectedCard(null);
     };
 
-    let backendUrl = import.meta.env.MODE === 'production'
-    ? import.meta.env.VITE_PROD_BACKEND_URL : import.meta.env.VITE_BACKEND_URL;
+    let backendUrl = 'https://portifoliofotografia-production.up.railway.app/photos';
 
     if (backendUrl && backendUrl.includes('/photos')) {
         backendUrl = backendUrl.replace('/photos', '');
