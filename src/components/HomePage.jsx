@@ -5,7 +5,7 @@ import "./HomePage.css";
 export default function HomePage() {
 
   return (
-    <div className='position text-center m-5'>
+    <div className='position text-center'>
       <div className="container">
         <div className='row'>
           <h1 className='text-white mb-3'>
