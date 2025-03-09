@@ -86,5 +86,229 @@
         },
         "name":"Um dia de sol",
         "description":"O que você faria se em um domingo saisse de casa e desse de cara com essa paisagem ? Eu tirei esta foto e fui aproveitar esse dia incrível."
+    },
+    {        
+        "image":{
+        "src": "Amora-lying-down-with-Pantera-and-Domino-in-the-background.jpg",
+        "alt":"Amora, gata preta, deitada com Pantera, gato preto, e Dominó ao fundo."
+        },
+        "name":"A união deles",
+        "description":"Em um domingo onde a preguiça é o que mais se tem, Amora, Pantera e Dominó não são diferentes e adoram dormir juntos."
+    },
+    {        
+        "image":{
+        "src": "Computer-two-dragon-ball-funko-one-being-goku-ssj-and-the-other-goku-black-ssj.jpg",
+        "alt":"Setup de computador com dois funkos de dragon ball."
+        },
+        "name":"Meu setup",
+        "description":"Atualmente este é o local onde toma a maior parte do meu tempo, seja programando, editando, jogando ou passando tempo."
+    },
+    {        
+        "image":{
+        "src": "Domino-a-black-and-white-cat-inside-the-box-staring-at-the-camera.jpg",
+        "alt":"Dominó, um gato preto e branco dentro da caixa, fazendo um close na câmera."
+        },
+        "name":"Aquele close",
+        "description":"Quando o Dominó viu que tinha um paparazzi ao redor dele, ele aproveitou para dar aquele close na foto, demonstrando toda sua beleza."
+    },
+    {        
+        "image":{
+        "src": "Flavia-holding-the-mavic-drone(3).jpg",
+        "alt":"Uma mulher, Flávia, segurando o drone."
+        },
+        "name":"Flávia e o drone",
+        "description":"A Flávia está se preparando para levantar voo com o drone e tirar belas fotos de uma paisagem incrível."
+    },
+    {        
+        "image":{
+        "src": "Flavia-holding-the-mavic-drone(9).jpg",
+        "alt":"Uma mulher, Flávia, segurando o drone, com o cabelo ao vento."
+        },
+        "name":"Fláva, o drone e um vento",
+        "description":"A Flávia está se preparando para levantar voo com o drone e tirar belas fotos de uma paisagem, com o vento ao seu favor, pois deixou essa foto ainda mais incrível do que já estava."
+    },
+    {        
+        "image":{
+        "src": "Flavia-holding-the-mavic-drone(13).jpg",
+        "alt":"Uma mulher, Flávia, segurando o drone, com um pouco mais de desfoque."
+        },
+        "name":"Flávia com o drone",
+        "description":"Estamos vendo aqui uma perspectiva e edição um pouco diferente desta foto com a Flávia, trazendo um pouco mais de desfoque, mas sem tirar todo o charme dela."
+    },
+    {        
+        "image":{
+        "src": "Flavia-holding-the-mavic-drone(15).jpg",
+        "alt":"Uma mulher, Flávia, segurando o drone, com uma paisagem e um carro branco atrás."
+        },
+        "name":"Estão preparados para voar",
+        "description":"Em um espaço mais afastado, a Flávia veio testar suas habilidades de voo e virar modelo para minhas fotos."
+    },
+    {        
+        "image":{
+        "src": "Flavia-holding-the-mavic-drone(16).jpg",
+        "alt":"Uma mulher, Flávia, segurando o drone, foto tirada da perspectiva mais de baixo."
+        },
+        "name":"Flavia inicia o voo",
+        "description":"Com essa perspectiva conseguimos apanha toda a beleza da Flávia ao iniciar o voo com o drone."
+    },
+    {        
+        "image":{
+        "src": "Flavia-taking-photo-with-a-pink-instax-max-behind-a-landscape(2).jpg",
+        "alt":"Uma mulher, Flávia, tirando uma foto com sua instax rosa."
+        },
+        "name":"Uma foto da foto",
+        "description":"Pegamos esse clique bacana, ao tirar uma foto da Flávia tirando uma foto."
+    },
+    {        
+        "image":{
+        "src": "Flavia-taking-photo-with-a-pink-instax-max-behind-a-landscape(7).jpg",
+        "alt":"Uma mulher, Flávia, tirando uma foto com sua instax rosa de corpo inteiro."
+        },
+        "name":"Uma pose para foto",
+        "description":"Antes dela tirar a foto eu preciso registrar também uma foto, pois até para tirar foto tem que fazer uma pose, que ficou incrível."
+    },
+    {        
+        "image":{
+        "src": "Flavia-taking-photo-with-a-pink-instax-max-behind-a-landscape(11).jpg",
+        "alt":"Uma mulher, Flávia, tirando uma foto com sua instax rosa olhando o horizonte."
+        },
+        "name":"Procurando o clique",
+        "description":"Porque antes de tirar 'a foto' devemos procurar o clique, ângulo e lugar perfeito para sair aquela foto maravilhosa, como esta."
+    },
+    {        
+        "image":{
+        "src": "photo-of-the-sky-a-beautiful-landscape-in-polvoreira-guimaraes.jpg",
+        "alt":"Um dia e um céu incríveis, formando uma bela paisagem."
+        },
+        "name":"Um dia de sol",
+        "description":"O que você faria se em um domingo saisse de casa e desse de cara com essa paisagem ? Eu tirei esta foto e fui aproveitar esse dia incrível."
+    },
+    {        
+        "image":{
+        "src": "Flavia-taking-photo-with-a-pink-instax-max-behind-a-landscape(17).jpg",
+        "alt":"Uma mulher, Flávia, tirando uma foto com o Iphone 14 Pro Max."
+        },
+        "name":"Com o celular também",
+        "description":"Afinal de contas não podemos apenas tirar fotos com drone, instax e não ter nenhuma com o celular certo."
+    },
+    {        
+        "image":{
+        "src": "Flavia-taking-photo-with-a-pink-instax-max-behind-a-landscape(18).jpg",
+        "alt":"Uma mulher, Flávia, tirando uma foto com sua instax rosa e no fundo uma paisagem."
+        },
+        "name":"Ainda há filme",
+        "description":"Ainda temos um filme para mais uma foto, para registrar esse incrivel clique dela."
+    },
+    {        
+        "image":{
+        "src": "Flavia-with-a-pink-instax-max-camera-taking-a-picture-of-a-landscape(6).jpg",
+        "alt":"Uma mulher, Flávia, tirando uma foto com sua instax rosa olhando o horizonte e preparada para tirar foto."
+        },
+        "name":"Um último clique ?",
+        "description":"Queriamos ter tirado esse último clique desse horizonte incrível, mas aqui descobrimod que tinha acabado o filme."
+    },
+    {        
+        "image":{
+        "src": "Guilherme-and-Domino-lying-on-the-sofa.jpg",
+        "alt":"Um rapaz, Guilherme, com o seu gato Dominó, preto e branco, dormindo em seu peito."
+        },
+        "name":"Dominó e seu cochilo",
+        "description":"As vezes o dominó só quer um lugar para se apoiar e dormir, eu não pude rejeitar esse pedido de servir de apoio."
+    },
+    {        
+        "image":{
+        "src": "Photo-of-a-landscape-in-Polvoreira-Guimaraes.jpg",
+        "alt":"Uma paisagem incrível em Polvoreira Guimarães em Portugal."
+        },
+        "name":"Guimarães",
+        "description":"As vezes o que precisamos é apenas parar um pouco e olhar em volta para enxergar as cores lá fora."
+    },
+    {        
+        "image":{
+        "src": "Photo-of-a-landscape-in-Polvoreira-Guimaraes(2).jpg",
+        "alt":"Uma paisagem incrível em Polvoreira Guimarães em Portugal, com o céu nublado."
+        },
+        "name":"Céu encoberto",
+        "description":"Mesmo que o céu esteja encoberto de nuvens, podemos admirar as beleza da natureza e seus contrastes."
+    },
+    {        
+        "image":{
+        "src": "photo-of-a-nike-bottle-and-in-the-background-a-tv-with-fc24-and-a-playstation-5(1).jpg",
+        "alt":"Uma garrafa da Nike, um PlayStation 5 e o FC24."
+        },
+        "name":"Tempo para descanso",
+        "description":"Uma parte do dia, também devemos ter nosso tempo de descontração e descanso, o meu foi jogando um pouco de videogame e bebendo água."
+    },
+    {        
+        "image":{
+        "src": "photo-of-a-nike-bottle-and-in-the-background-a-tv-with-fc24-and-a-playstation-5(2).jpg",
+        "alt":"Uma garrafa da Nike, um PlayStation 5 e o FC24, com o meu jogador na tela."
+        },
+        "name":"Souza 23",
+        "description":"Nesse descanso temos o meu jogador ao fundo terminando sua comemoração e mostrando o número de sua camisa e o nome."
+    },
+    {        
+        "image":{
+        "src": "Photo-taken-by-drone-with-Flavia-and-Guilherme-and-a-landscape-in-the-background.jpg",
+        "alt":"Uma foto tirada por um drone, mostrando um casal, Flávia e Guilherme."
+        },
+        "name":"Um drone, algumas fotos",
+        "description":"Eu acho incrível fotos feita por drones, além de conseguir apanhar uma boa parte de Guimarães, também apanhou a nós."
+    },
+    {        
+        "image":{
+        "src": "Photo-taken-by-drone-with-Flavia-and-Guilherme-and-a-landscape-in-the-background(3).jpg",
+        "alt":"Uma foto tirada por um drone, mostrando um casal, Flávia e Guilherme, próximo de um carro branco."
+        },
+        "name":"Para o infinito e além",
+        "description":"Quem não adora voar ? Poder ter uma vista dessas."
+    },
+    {        
+        "image":{
+        "src": "Photo-taken-by-drone-with-Flavia-and-Guilherme-and-a-landscape-in-the-background(4).jpg",
+        "alt":"Uma foto tirada por um drone, mostrando um casal, Flávia e Guilherme de costas."
+        },
+        "name":"Conversa, fotos, paisagens...",
+        "description":"Lugares onde temos conversas, paisagens e fotos, criando assim memoórias e momentos."
+    },
+    {        
+        "image":{
+        "src": "Photo-taken-by-drone-with-Flavia-and-Guilherme-and-a-landscape-in-the-background(8).jpg",
+        "alt":"Uma foto tirada por um drone, mostrando um casal, Flávia e Guilherme posando para a foto."
+        },
+        "name":"Tem alguém nos filmando",
+        "description":"Ao descobrir que estávamos sendo perseguido e filmado por um drone, viramos e fizemos uma pose para que pudessem ter uma boa foto."
+    },
+    {        
+        "image":{
+        "src": "Photo-taken-by-drone-with-Flavia-and-Guilherme-and-a-landscape-in-the-background(10).jpg",
+        "alt":"Uma foto tirada por um drone, mostrando um casal, Flávia e Guilherme atrás de um carro branco."
+        },
+        "name":"Um pouco mais de perto",
+        "description":"Numa foto anterior estávamos voando muito alto, então resolvemos pegar um pouco mais a beleza, a nossa claro rs."
+    },
+    {        
+        "image":{
+        "src": "Photo-taken-by-drone-with-Flavia-and-Guilherme-and-a-landscape-in-the-background(14).jpg",
+        "alt":"Uma foto tirada por um drone, mostrando um casal, Flávia e Guilherme tirando uma foto do drone."
+        },
+        "name":"Fake foto ?",
+        "description":"Sei que eu disse que tinha acabado o filme, mas será que acabou mesmo ? Ou apenas estamos tirando uma fake foto..."
+    },
+    {        
+        "image":{
+        "src": "Photo-taken-by-drone-with-Flavia-and-Guilherme-and-a-landscape-in-the-background(15).jpg",
+        "alt":"Uma foto tirada por um drone, mostrando um casal, Flávia e Guilherme de costas, caminhando."
+        },
+        "name":"A perseguição",
+        "description":"Aqui eu descobri como fazer com que o drone seguisse a nós sem que eu precisasse controlá-lo, uma funcionalidade incrível."
+    },
+    {        
+        "image":{
+        "src": "Photo-taken-by-drone-with-Flavia-and-Guilherme-and-a-landscape-in-the-background(19).jpg",
+        "alt":"Uma foto tirada por um drone, mostrando um casal, Flávia e Guilherme posando para o drone."
+        },
+        "name":"Última foto do dia",
+        "description":"Nesse dia aproveitamos bastante, para conversar, passar um tempo juntos, tirar fotos, criar momentos, ver paisagens, simplesmente um dia dentre muitos outros que faremos mais vezes."
     }
 ]
