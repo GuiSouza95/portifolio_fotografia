@@ -16,7 +16,7 @@ export default function HomePage() {
         <div className='row'>
           <ul className='text-center list-group'>
             <Link to="/activities">
-              <li className='list-group-item list-group-item-primary rounded w-25 mx-auto'>Veja aqui meu álbum</li>
+              <li className='list-group-item list-group-item-primary rounded w-25 mx-auto'>Veja aqui meu álbum !</li>
             </Link>
           </ul>
         </div>
