@@ -12,6 +12,7 @@
 
 .card:hover {
     transform: scale(1.05);
+    transition: transform 0.3s ease;
 }
 
 .aside {
@@ -23,7 +24,8 @@
     padding: 20px;
     overflow: auto;
     transition: transform 0.2s;
-    max-height: 50vh;
+    max-height: 90vh;
+    width: 350px;
 }
 
 .close-btn{
@@ -31,7 +33,7 @@
     border: none;
     position: relative;
     left: 45%;
-    transition: color 0.3s;
+    transition: color 0.3s ease;
 }
 
 .close-btn:hover{
