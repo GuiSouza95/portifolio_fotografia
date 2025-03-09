@@ -10,7 +10,7 @@ export default function RootLayout(){
                     <img src={LogoGui} className="logo logoGui img-fluid" alt="Logo Dev Gui" />
                 </a>
                 
-                <q className="text-black">Veja aqui meu site e algumas informações</q>
+                <q>Veja aqui meu site e algumas informações</q>
             </div>
 
             <Outlet/>

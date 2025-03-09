@@ -3,5 +3,5 @@
     height: 100vh;
     display: flex;
     align-items: center;
-    background: url("../assets/Guilherme-holding-the-mavic-drone-getting-ready-to-start-the-flight.jpg") no-repeat center / cover;
+    background: url("../assets/Guilherme-holding-the-mavic-drone-getting-ready-to-start-the-flight.jpg") no-repeat center / 80vw 80vh;
 }
