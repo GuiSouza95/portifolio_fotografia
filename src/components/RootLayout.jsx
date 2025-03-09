@@ -9,9 +9,8 @@ export default function RootLayout(){
                 <a href="http://guisouza95.github.io" target="_blank">
                     <img src={LogoGui} className="logo logoGui img-fluid" alt="Logo Dev Gui" />
                 </a>
-            </div>
-            <div>
-                <q>Veja aqui meu site e algumas informações</q>
+                
+                <q className="text-black">Veja aqui meu site e algumas informações</q>
             </div>
 
             <Outlet/>
