@@ -8,7 +8,9 @@ export default function HomePage() {
     <div className='position text-center'>
       <div className="container">
         <div className='row'>
-          <h1 className='text-white mb-3'>Meu tempo livre</h1>
+          <h1 className='text-white mb-3'>
+            <q>Meu tempo livre !</q>
+          </h1>
         </div>
 
         <div className='row'>
