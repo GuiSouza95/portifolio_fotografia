@@ -10,6 +10,13 @@
     max-height: 600px;
 }
 
+.card .image img {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    object-fit: cover;
+}
+
 .card:hover {
     transform: scale(1.05);
     transition: transform 0.3s ease;
@@ -25,7 +32,7 @@
     overflow: auto;
     transition: transform 0.2s;
     max-height: 90vh;
-    width: 350px;
+    width: auto;
 }
 
 .close-btn{
