@@ -9,7 +9,7 @@ export default function HomePage() {
       <div className="container">
         <div className='row'>
           <h1 className='text-white mb-3'>
-            <q>Meu tempo livre !</q>
+            <q>Minha diversão !</q>
           </h1>
         </div>
 
